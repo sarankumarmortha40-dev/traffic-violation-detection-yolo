@@ -97,7 +97,7 @@ Due to GitHub file size limitations, trained model files are hosted externally.
 
 ### Download Models
 
-THE NO HELMET AND TRIPLE RIDING MODEL links is below:
+THE NO HELMET AND TRIPLE RIDING MODEL link:
 https://drive.google.com/drive/folders/1DbLONQlFfTnTvAXk4dAbBSjg0RcwhX6k?usp=sharing
 
 ---
