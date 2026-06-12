@@ -1,0 +1,35 @@
+# YOLO
+runs/
+
+# Weights
+*.pt
+*.onnx
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# Dataset
+train/
+valid/
+test/
+datasets/
+triple riding model/
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+demo videos/
+output videos/
+helmet model/
+triple riding model/
+triple riding model 2/
+
+*.mp4
+*.avi
+*.pt
